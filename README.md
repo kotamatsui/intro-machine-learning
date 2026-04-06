@@ -132,3 +132,8 @@
 
 ---
 © 2025 Kota Matsui
+
+## 参考資料
+- [scikit-learn ドキュメント](https://scikit-learn.org/stable/)
+- [PyTorch チュートリアル](https://pytorch.org/tutorials/)
+- [Google Colab](https://colab.research.google.com)
