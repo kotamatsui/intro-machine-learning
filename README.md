@@ -28,7 +28,7 @@
 ## 講義スケジュールとコンテンツ
 凡例：📖 スライド資料，💻 Google Colab，💡 slido (質疑応答フォーラム)
 
-### 第1回(4/10): 統計的機械学習の概要と医学・健康科学領域への応用　[📖]()　[💡](https://app.sli.do/event/eJvJtzCPXfUD7Njhsax3Us)
+### 第1回(4/10): 統計的機械学習の概要と医学・健康科学領域への応用　[📖](Session1/Introduction-to-ML1_compressed.pdf)　[💡](https://app.sli.do/event/eJvJtzCPXfUD7Njhsax3Us)
 
 ### 第2回(4/17): 教師あり学習の基礎
 
