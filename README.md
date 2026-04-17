@@ -32,7 +32,11 @@
 260414更新：
   - 講義スライドにAI for Scienceの新たなグラントに関する情報を追記
 
-### 第2回(4/17): 教師あり学習の基礎
+### 第2回(4/17): 教師あり学習の基礎 [📖](Session2/Introduction-to-ML2_compressed.pdf)[💡](https://app.sli.do/event/xg6qWXCbwQrt5KPNzX9SG7/live/questions)
+  - 補足資料：回帰モデリング（2025年度「データ解析の方法」）[📖]()
+  - サンプルコード
+    - 特徴量エンジニアリングの例 [💻](https://colab.research.google.com/drive/12NzZVKbGL-Kv-Vj2U6ESDGrxOTK_Y89n?usp=sharing)
+    - テストが必要な理由 [💻](https://colab.research.google.com/drive/17c5uFl8QyOoc5jNlYItrLRc3L-VtJVVf?usp=sharing)
 
 ### 第3回(4/24): 教師なし学習の基礎
 
