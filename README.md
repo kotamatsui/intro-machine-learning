@@ -38,7 +38,7 @@
     - 特徴量エンジニアリングの例 [💻](https://colab.research.google.com/drive/12NzZVKbGL-Kv-Vj2U6ESDGrxOTK_Y89n?usp=sharing)
     - テストが必要な理由 [💻](https://colab.research.google.com/drive/17c5uFl8QyOoc5jNlYItrLRc3L-VtJVVf?usp=sharing)
 
-### 第3回(4/24): 教師なし学習の基礎
+### 第3回(4/24): 教師なし学習の基礎 [📖](Session3/Introduction-to-ML3.pdf)[💡](https://app.sli.do/event/qLtidzmKWD67zrAUsK61pe)
 
 ### 第4回(5/8): 深層学習の基礎
 
