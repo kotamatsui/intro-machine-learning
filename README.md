@@ -40,6 +40,7 @@
 
 ### 第3回(4/24): 教師なし学習の基礎 [📖](Session3/Introduction-to-ML3.pdf)[💡](https://app.sli.do/event/qLtidzmKWD67zrAUsK61pe)
   - サンプルコード
+    - 分散最大化基準に基づくPCAのデモ [💻](https://colab.research.google.com/drive/1s_9i8KdSN9c3FOp7ksBLgaVTAFSgAEby?usp=sharing)
     - EMアルゴリズムによる正規混合モデルの推定のデモ [💻](https://colab.research.google.com/drive/18ePp_lK5TZaYb2Zu0DSk3MfHSH-p7wl4?usp=sharing)  
 
 ### 第4回(5/8): 深層学習の基礎
