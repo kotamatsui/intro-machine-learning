@@ -39,6 +39,8 @@
     - テストが必要な理由 [💻](https://colab.research.google.com/drive/17c5uFl8QyOoc5jNlYItrLRc3L-VtJVVf?usp=sharing)
 
 ### 第3回(4/24): 教師なし学習の基礎 [📖](Session3/Introduction-to-ML3.pdf)[💡](https://app.sli.do/event/qLtidzmKWD67zrAUsK61pe)
+  - サンプルコード
+    - EMアルゴリズムによる正規混合モデルの推定のデモ [💻](https://colab.research.google.com/drive/18ePp_lK5TZaYb2Zu0DSk3MfHSH-p7wl4?usp=sharing)  
 
 ### 第4回(5/8): 深層学習の基礎
 
